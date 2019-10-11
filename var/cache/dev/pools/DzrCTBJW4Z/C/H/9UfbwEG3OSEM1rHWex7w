@@ -1,0 +1,1 @@
+<?php return [PHP_INT_MAX, 'api_clues_get_item'];
